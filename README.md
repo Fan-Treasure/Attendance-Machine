@@ -7,3 +7,13 @@
 **小组成员**：范传进、许家路、高梓又、王婧怡
 
 **展示及讲解视频**：[智能云考勤机，大一新生的第一个工程项目](https://www.bilibili.com/video/BV16N41197cr/)
+
+<img src="./images/3Dmodel.png" alt="map" width = "500"/>
+
+<img src="./images/3Dmodel_front.png" alt="map" width = "500"/>
+
+<img src="./images/3Dmodel_back.png" alt="map" width = "500"/>
+
+<img src="./images/working1.png" alt="map" width = "500"/>
+
+<img src="./images/working2.png" alt="map" width = "500"/>
