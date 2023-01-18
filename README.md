@@ -8,14 +8,12 @@
 
 **展示及讲解视频**：[智能云考勤机，大一新生的第一个工程项目](https://www.bilibili.com/video/BV16N41197cr/)
 
-![查看数据表](images/3Dmodel.png)
+<img src="./images/3Dmodel.png" alt="map" width = "750"/>
 
-<img src="./images/3Dmodel.png" alt="map" width = "500"/>
+<img src="./images/3Dmodel_front.png" alt="map" width = "750"/>
 
-<img src="./images/3Dmodel_front.png" alt="map" width = "500"/>
+<img src="./images/3Dmodel_back.png" alt="map" width = "750"/>
 
-<img src="./images/3Dmodel_back.png" alt="map" width = "500"/>
+<img src="./images/working1.png" alt="map" width = "750"/>
 
-<img src="./images/working1.png" alt="map" width = "500"/>
-
-<img src="./images/working2.png" alt="map" width = "500"/>
+<img src="./images/working2.png" alt="map" width = "750"/>
