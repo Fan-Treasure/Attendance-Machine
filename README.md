@@ -1,4 +1,4 @@
-# Attendance-Machine
+# Attendance Machine
 
 **项目简介**：山东大学（威海）2020级数据科学与人工智能实验班单片机原理与实践+Python程序设计与linux基础综合项目：智能云考勤机，基于STC8A单片机，可实现本地指纹识别及云端人脸识别。
 
